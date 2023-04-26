@@ -1,0 +1,15 @@
+D:\C#\Projetos\HumanRecurses\HumanRecurses\bin\Debug\net6.0\HumanRecurses.exe
+D:\C#\Projetos\HumanRecurses\HumanRecurses\bin\Debug\net6.0\HumanRecurses.deps.json
+D:\C#\Projetos\HumanRecurses\HumanRecurses\bin\Debug\net6.0\HumanRecurses.runtimeconfig.json
+D:\C#\Projetos\HumanRecurses\HumanRecurses\bin\Debug\net6.0\HumanRecurses.dll
+D:\C#\Projetos\HumanRecurses\HumanRecurses\bin\Debug\net6.0\HumanRecurses.pdb
+D:\C#\Projetos\HumanRecurses\HumanRecurses\obj\Debug\net6.0\HumanRecurses.csproj.AssemblyReference.cache
+D:\C#\Projetos\HumanRecurses\HumanRecurses\obj\Debug\net6.0\HumanRecurses.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Projetos\HumanRecurses\HumanRecurses\obj\Debug\net6.0\HumanRecurses.AssemblyInfoInputs.cache
+D:\C#\Projetos\HumanRecurses\HumanRecurses\obj\Debug\net6.0\HumanRecurses.AssemblyInfo.cs
+D:\C#\Projetos\HumanRecurses\HumanRecurses\obj\Debug\net6.0\HumanRecurses.csproj.CoreCompileInputs.cache
+D:\C#\Projetos\HumanRecurses\HumanRecurses\obj\Debug\net6.0\HumanRecurses.dll
+D:\C#\Projetos\HumanRecurses\HumanRecurses\obj\Debug\net6.0\refint\HumanRecurses.dll
+D:\C#\Projetos\HumanRecurses\HumanRecurses\obj\Debug\net6.0\HumanRecurses.pdb
+D:\C#\Projetos\HumanRecurses\HumanRecurses\obj\Debug\net6.0\HumanRecurses.genruntimeconfig.cache
+D:\C#\Projetos\HumanRecurses\HumanRecurses\obj\Debug\net6.0\ref\HumanRecurses.dll
